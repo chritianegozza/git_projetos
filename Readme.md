@@ -61,9 +61,7 @@ Os agradecimentos vão para essas pessoas maravilhosas.
 ----------------------------------------------------------------------------------------
 <table>
   <tr>
-   
-    <td align="center"><a href="https://github.com/chritianegozza"><img src="https://avatars.githubusercontent.com/u/72118415?v=4" width="100px;" alt=""/><br /><sub><b>Christiane Gozza</b></sub></a><br /><a href="https://github.com/chritianegozza">👩🏻‍💻</a></td>
-    
+   <td align="center"><a href="https://github.com/chritianegozza"><img src="https://avatars.githubusercontent.com/u/72118415?v=4" width="100px;" alt=""/><br /><sub><b>Christiane Gozza</b></sub></a><br /><a href="https://github.com/chritianegozza">👩🏻‍💻</a></td>    
   </tr>
 
 </table>
